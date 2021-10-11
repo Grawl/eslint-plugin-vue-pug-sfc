@@ -14,6 +14,7 @@
   - `no-duplicate-attributes` ([#10])
   - `no-template-key` ([#13])
   - `no-textarea-mustache` ([#14])
+  - `no-unused-vars` ([#16])
   - `no-use-v-if-with-v-for` ([#17])
   - `require-component-is` ([#18])
   - `require-v-for-key` ([#19])
@@ -27,6 +28,7 @@
 [#10]: https://github.com/Shinigami92/eslint-plugin-vue-pug-sfc/issues/10
 [#13]: https://github.com/Shinigami92/eslint-plugin-vue-pug-sfc/issues/13
 [#14]: https://github.com/Shinigami92/eslint-plugin-vue-pug-sfc/issues/14
+[#16]: https://github.com/Shinigami92/eslint-plugin-vue-pug-sfc/issues/16
 [#17]: https://github.com/Shinigami92/eslint-plugin-vue-pug-sfc/issues/17
 [#18]: https://github.com/Shinigami92/eslint-plugin-vue-pug-sfc/issues/18
 [#19]: https://github.com/Shinigami92/eslint-plugin-vue-pug-sfc/issues/19
